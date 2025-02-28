@@ -1,4 +1,4 @@
-# Othello
+# Othello AI
 
 An AI that plays [Othello (also
 known as Reversi)](https://en.wikipedia.org/wiki/Reversi), a classic
